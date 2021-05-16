@@ -3,12 +3,12 @@
         {
             "id": 1,
             "name": "Neuromorphism Analog Clock",
-            "pictureId": "./analogclock.png"
+            "pictureId": "./analog-clock.png"
         },
         {
             "id": 2,
             "name": "Responsive Sidebar",
-            "pictureId": "./responsidebar.png"
+            "pictureId": "./responsive-sidebar.png"
         },
         {
             "id": 3,
@@ -24,6 +24,66 @@
             "id": 5,
             "name": "Dark Mode - v1",
             "pictureId": "./dark-mode-v1.png"
+        },
+        {
+            "id": 6,
+            "name": "Canvas Drawing",
+            "pictureId": "./canvas-drawing.png"
+        },
+        {
+            "id": 7,
+            "name": "Catat Menu",
+            "pictureId": "./catat-menu.png"
+        },
+        {
+            "id": 8,
+            "name": "Checklist",
+            "pictureId": "./checklist-static.png"
+        },
+        {
+            "id": 9,
+            "name": "Countdown New Year",
+            "pictureId": "./countdown-year.png"
+        },
+        {
+            "id": 10,
+            "name": "Foody Apps",
+            "pictureId": "./foody-apps.png"
+        },
+        {
+            "id": 11,
+            "name": "Meal Finder",
+            "pictureId": "./meal-finder.png"
+        },
+        {
+            "id": 12,
+            "name": "Mini Calender",
+            "pictureId": "./mini-calender.png"
+        },
+        {
+            "id": 13,
+            "name": "Pokemon App - v1",
+            "pictureId": "./pokemon-v1.png"
+        },
+        {
+            "id": 14,
+            "name": "Recipe Apps",
+            "pictureId": "./recipe-app.png"
+        },
+        {
+            "id": 15,
+            "name": "Parallax & Sticky Navbar",
+            "pictureId": "./parallax-scroll-navbar.png"
+        },
+        {
+            "id": 16,
+            "name": "Todo - Dev Ed",
+            "pictureId": "./todo-deved.png"
+        },
+        {
+            "id": 17,
+            "name": "Todo - Sekolah Koding",
+            "pictureId": "./todo-sekolah-koding.png"
         }
     ]
 }
