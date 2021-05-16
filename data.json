@@ -3,87 +3,87 @@
         {
             "id": 1,
             "name": "Neuromorphism Analog Clock",
-            "pictureId": "./analog-clock.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/analog-clock.png"
         },
         {
             "id": 2,
             "name": "Responsive Sidebar",
-            "pictureId": "./responsive-sidebar.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/responsive-sidebar.png"
         },
         {
             "id": 3,
             "name": "Simple Calculator",
-            "pictureId": "./simple-calculator.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/simple-calculator.png"
         },
         {
             "id": 4,
             "name": "Theme Switcher",
-            "pictureId": "./theme-switcher.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/theme-switcher.png"
         },
         {
             "id": 5,
             "name": "Dark Mode - v1",
-            "pictureId": "./dark-mode-v1.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/dark-mode-v1.png"
         },
         {
             "id": 6,
             "name": "Canvas Drawing",
-            "pictureId": "./canvas-drawing.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/canvas-drawing.png"
         },
         {
             "id": 7,
             "name": "Catat Menu",
-            "pictureId": "./catat-menu.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/catat-menu.png"
         },
         {
             "id": 8,
             "name": "Checklist",
-            "pictureId": "./checklist-static.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/checklist-static.png"
         },
         {
             "id": 9,
             "name": "Countdown New Year",
-            "pictureId": "./countdown-year.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/countdown-year.png"
         },
         {
             "id": 10,
             "name": "Foody Apps",
-            "pictureId": "./foody-apps.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/foody-apps.png"
         },
         {
             "id": 11,
             "name": "Meal Finder",
-            "pictureId": "./meal-finder.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/meal-finder.png"
         },
         {
             "id": 12,
             "name": "Mini Calender",
-            "pictureId": "./mini-calender.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/mini-calender.png"
         },
         {
             "id": 13,
             "name": "Pokemon App - v1",
-            "pictureId": "./pokemon-v1.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/pokemon-v1.png"
         },
         {
             "id": 14,
             "name": "Recipe Apps",
-            "pictureId": "./recipe-app.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/recipe-app.png"
         },
         {
             "id": 15,
             "name": "Parallax & Sticky Navbar",
-            "pictureId": "./parallax-scroll-navbar.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/parallax-scroll-navbar.png"
         },
         {
             "id": 16,
             "name": "Todo - Dev Ed",
-            "pictureId": "./todo-deved.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/todo-deved.png"
         },
         {
             "id": 17,
             "name": "Todo - Sekolah Koding",
-            "pictureId": "./todo-sekolah-koding.png"
+            "pictureId": "https://gerrygeop.github.io/images-base/image/todo-sekolah-koding.png"
         }
     ]
 }
