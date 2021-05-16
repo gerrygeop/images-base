@@ -1,0 +1,29 @@
+{
+    "images":[
+        {
+            "id": 1,
+            "name": "Neuromorphism Analog Clock",
+            "pictureId": "./analogclock.png"
+        },
+        {
+            "id": 2,
+            "name": "Responsive Sidebar",
+            "pictureId": "./responsidebar.png"
+        },
+        {
+            "id": 3,
+            "name": "Simple Calculator",
+            "pictureId": "./simple-calculator.png"
+        },
+        {
+            "id": 4,
+            "name": "Theme Switcher",
+            "pictureId": "./theme-switcher.png"
+        },
+        {
+            "id": 5,
+            "name": "Dark Mode - v1",
+            "pictureId": "./dark-mode-v1.png"
+        }
+    ]
+}
