@@ -94,6 +94,26 @@
 			"id": 19,
 			"name": "Pemira FISIP",
 			"pictureId": "https://gerrygeop.github.io/images-base/image/pemira-fisip.png"
+		},
+		{
+			"id": 20,
+			"name": "Pemira FAPERTA",
+			"pictureId": "https://gerrygeop.github.io/images-base/image/pemira-faperta.png"
+		},
+		{
+			"id": 21,
+			"name": "Vandertech",
+			"pictureId": "https://gerrygeop.github.io/images-base/image/vandertech.png"
+		},
+		{
+			"id": 22,
+			"name": "9T Coffee - Vandertech",
+			"pictureId": "https://gerrygeop.github.io/images-base/image/vandertech-9t.png"
+		},
+		{
+			"id": 23,
+			"name": "Formustaqbal",
+			"pictureId": "https://gerrygeop.github.io/images-base/image/formustaqbal.png"
 		}
 	]
 }
